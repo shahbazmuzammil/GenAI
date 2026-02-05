@@ -1,0 +1,21 @@
+LeadID,CustomerName,Stage,Amount,Date,Duration_Days,Source
+1001,Acme Corp,Closed Won,50000,2025-01-15,45,Email
+1002,TechStart Inc,Proposal,35000,2025-01-10,30,LinkedIn
+1003,Global Solutions,Negotiation,75000,2024-12-20,55,Referral
+1004,Digital First LLC,Qualified Lead,25000,2025-01-20,10,Cold Call
+1005,Future Tech,Prospect,15000,2025-01-22,5,Website
+1006,Innovation Labs,Closed Won,60000,2024-11-30,120,Email
+1007,Smart Systems,Closed Lost,40000,2024-10-15,90,LinkedIn
+1008,NextGen Solutions,Proposal,45000,2025-01-12,25,Referral
+1009,Cloud Dynamics,Negotiation,55000,2025-01-05,50,Cold Call
+1010,DataFlow Corp,Qualified Lead,30000,2025-01-18,15,Website
+1011,Prime Analytics,Prospect,20000,2025-01-23,3,Email
+1012,PowerScale Inc,Closed Won,70000,2024-12-10,80,LinkedIn
+1013,Swift Commerce,Proposal,35000,2025-01-08,28,Referral
+1014,Vertex AI,Negotiation,85000,2024-12-28,40,Cold Call
+1015,Enterprise Hub,Closed Won,95000,2024-11-20,130,Email
+1016,Agile Ventures,Qualified Lead,28000,2025-01-19,12,Website
+1017,Quantum Tech,Prospect,18000,2025-01-24,2,LinkedIn
+1018,Digital Wave,Closed Lost,55000,2024-09-30,120,Referral
+1019,Nexus Solutions,Proposal,42000,2025-01-11,26,Cold Call
+1020,Catalyst Group,Negotiation,62000,2025-01-01,35,Email

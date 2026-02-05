@@ -1,0 +1,22 @@
+ProductID,ProductName,Category,Price,StockQuantity,Manufacturer
+101,Classic T-Shirt,Apparel,19.99,120,CottonWorks
+102,Wireless Mouse,Electronics,25.50,85,TechGear
+103,Ceramic Mug,Kitchenware,12.00,200,HomeDecor
+104,Running Shoes,Footwear,59.99,45,SpeedWalk
+105,LED Desk Lamp,Office,34.00,60,BrightLite
+106,Yoga Mat,Fitness,22.50,110,ZenLife
+107,Bluetooth Headphones,Electronics,89.00,30,AudioPro
+108,Leather Wallet,Accessories,45.00,55,ClassicStyle
+109,Garden Shovel,Gardening,15.75,70,GreenThumb
+110,Coffee Beans 1kg,Grocery,28.00,150,RoastMasters
+101,Classic T-Shirt,Apparel,19.99,120,CottonWorks
+102,Wireless Mouse,Electronics,25.50,85,TechGear
+103,Ceramic Mug,Kitchenware,12.00,200,HomeDecor
+104,Running Shoes,Footwear,59.99,45,SpeedWalk
+105,LED Desk Lamp,Office,34.00,60,BrightLite
+106,Yoga Mat,Fitness,22.50,110,ZenLife
+107,Bluetooth Headphones,Electronics,89.00,30,AudioPro
+108,Leather Wallet,Accessories,45.00,55,ClassicStyle
+109,Garden Shovel,Gardening,15.75,70,GreenThumb
+110,Coffee Beans 1kg,Grocery,28.00,150,RoastMasters
+

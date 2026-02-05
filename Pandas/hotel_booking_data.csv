@@ -1,0 +1,21 @@
+BookingID,CustomerName,HotelName,CheckInDate,CheckOutDate,RoomType,NumGuests,NightCount,PricePerNight,TotalPrice,City,Country,Status,Rating,CancellationDate
+B1001,John Smith,Grand Plaza Hotel,2025-01-20,2025-01-25,Deluxe,2,5,150,750,New York,USA,Completed,4.5,
+B1002,Maria Garcia,Ocean View Resort,2025-02-01,2025-02-08,Suite,3,7,200,1400,Miami,USA,Confirmed,,
+B1003,Ahmed Hassan,Taj Hotel,2025-01-15,2025-01-18,Standard,1,3,80,240,Delhi,India,Completed,4.0,
+B1004,Emma Wilson,Eiffel Tower Inn,2025-02-10,2025-02-15,Deluxe,2,5,180,900,Paris,France,Confirmed,,2025-01-25
+B1005,Carlos Rodriguez,Cancun Paradise,2025-01-25,2025-02-02,Suite,4,8,220,1760,Cancun,Mexico,Completed,4.8,
+B1006,Sophie Martin,Swiss Alps Lodge,2025-02-05,2025-02-12,Standard,2,7,120,840,Zurich,Switzerland,Confirmed,,
+B1007,James Brown,Tokyo Metropolitan,2025-01-28,2025-02-05,Deluxe,1,8,160,1280,Tokyo,Japan,Completed,4.2,
+B1008,Lisa Chen,Bali Beach Resort,2025-02-15,2025-02-22,Suite,3,7,190,1330,Bali,Indonesia,Confirmed,,
+B1009,Marco Rossi,Rome Historic Hotel,2025-02-20,2025-02-25,Standard,2,5,100,500,Rome,Italy,Pending,,
+B1010,Anna Kowalski,Warsaw Palace Hotel,2025-03-01,2025-03-08,Deluxe,2,7,140,980,Warsaw,Poland,Confirmed,,
+B1011,David Thompson,Sydney Harbor View,2025-01-30,2025-02-06,Suite,2,7,210,1470,Sydney,Australia,Completed,4.7,
+B1012,Michelle Lee,Bangkok Thai Resort,2025-02-08,2025-02-15,Standard,1,7,95,665,Bangkok,Thailand,Completed,4.1,
+B1013,Roberto Silva,Rio Beach Hotel,2025-02-25,2025-03-05,Deluxe,3,8,170,1360,Rio de Janeiro,Brazil,Confirmed,,2025-02-10
+B1014,Yuki Tanaka,Venice Grand Canal,2025-03-10,2025-03-17,Suite,2,7,250,1750,Venice,Italy,Confirmed,,
+B1015,Helena Schmidt,Berlin Modern Hotel,2025-02-12,2025-02-19,Standard,1,7,110,770,Berlin,Germany,Completed,3.9,
+B1016,Pierre Dubois,Monaco Luxury Resort,2025-03-05,2025-03-12,Suite,2,7,300,2100,Monaco,France,Confirmed,,
+B1017,Priya Sharma,Mumbai Gateway Hotel,2025-01-22,2025-01-26,Standard,2,4,85,340,Mumbai,India,Completed,4.3,
+B1018,Michael O'Brien,Dublin Temple Hotel,2025-03-15,2025-03-22,Deluxe,1,7,155,1085,Dublin,Ireland,Confirmed,,
+B1019,Lucia Moretti,Florence Renaissance,2025-02-28,2025-03-07,Standard,2,7,130,910,Florence,Italy,Pending,,
+B1020,Antonio Gomez,Barcelona Beachfront,2025-03-20,2025-03-27,Suite,3,7,195,1365,Barcelona,Spain,Confirmed,,
