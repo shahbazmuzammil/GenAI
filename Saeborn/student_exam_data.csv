@@ -1,0 +1,79 @@
+Gender,Race/Ethnicity,Parental Level of Education,Lunch,Test Preparation Course,Math Score,Reading Score,Writing Score
+Female,Group B,Bachelor's Degree,Standard,Not Completed,72,73,74
+Male,Group C,Some College,Free,Completed,69,90,88
+Female,Group A,Master's Degree,Standard,Not Completed,90,95,93
+Male,Group B,Associate's Degree,Free,Not Completed,47,57,56
+Female,Group C,Some High School,Standard,Not Completed,76,78,75
+Male,Group A,High School,Free,Completed,71,73,74
+Female,Group B,Bachelor's Degree,Standard,Completed,88,100,100
+Male,Group C,Master's Degree,Standard,Not Completed,55,59,56
+Female,Group A,Some College,Free,Not Completed,78,72,70
+Male,Group B,High School,Free,Not Completed,66,64,65
+Female,Group C,Associate's Degree,Standard,Completed,95,92,94
+Male,Group A,Some High School,Free,Not Completed,44,46,45
+Female,Group B,Master's Degree,Standard,Completed,100,96,99
+Male,Group C,Some College,Free,Not Completed,73,74,76
+Female,Group A,Bachelor's Degree,Standard,Not Completed,82,80,78
+Male,Group B,High School,Free,Completed,68,76,77
+Female,Group C,Some High School,Standard,Completed,85,87,86
+Male,Group A,Associate's Degree,Free,Not Completed,59,61,62
+Female,Group B,Some College,Standard,Not Completed,91,89,92
+Male,Group C,Bachelor's Degree,Free,Completed,74,78,79
+Female,Group A,Some High School,Standard,Not Completed,67,65,66
+Male,Group B,Master's Degree,Standard,Completed,92,94,95
+Female,Group C,High School,Free,Not Completed,58,60,61
+Male,Group A,Bachelor's Degree,Standard,Not Completed,79,81,80
+Female,Group B,Some College,Free,Completed,86,88,87
+Male,Group C,Associate's Degree,Standard,Completed,71,72,73
+Female,Group A,Master's Degree,Standard,Completed,98,97,98
+Male,Group B,Some High School,Free,Not Completed,52,54,55
+Female,Group C,Bachelor's Degree,Standard,Not Completed,84,86,85
+Male,Group A,High School,Free,Not Completed,63,62,64
+Female,Group B,Associate's Degree,Standard,Not Completed,75,77,76
+Male,Group C,Some College,Free,Not Completed,80,82,81
+Female,Group A,Bachelor's Degree,Standard,Completed,87,85,86
+Male,Group B,Master's Degree,Free,Not Completed,94,92,93
+Female,Group C,Some High School,Standard,Completed,70,68,69
+Male,Group A,High School,Free,Completed,65,67,68
+Female,Group B,Some College,Standard,Not Completed,89,91,90
+Male,Group C,Bachelor's Degree,Free,Not Completed,77,79,78
+Female,Group A,Associate's Degree,Standard,Completed,93,91,92
+Male,Group B,Some High School,Free,Completed,48,50,51
+Female,Group C,Master's Degree,Standard,Not Completed,96,98,97
+Male,Group A,Some College,Free,Completed,72,74,75
+Female,Group B,High School,Standard,Not Completed,60,62,63
+Male,Group C,Bachelor's Degree,Free,Completed,83,84,85
+Female,Group A,Some High School,Standard,Not Completed,61,63,62
+Male,Group B,Associate's Degree,Free,Not Completed,69,70,71
+Female,Group C,Bachelor's Degree,Standard,Completed,92,93,94
+Male,Group A,Master's Degree,Free,Completed,97,99,98
+Female,Group B,Some College,Standard,Not Completed,85,87,88
+Male,Group C,High School,Free,Completed,66,68,69
+Female,Group A,Bachelor's Degree,Standard,Not Completed,81,80,82
+Male,Group B,Some High School,Free,Not Completed,51,53,54
+Female,Group C,Associate's Degree,Standard,Completed,88,86,89
+Male,Group A,Some College,Free,Not Completed,76,78,77
+Female,Group B,Master's Degree,Standard,Completed,99,97,98
+Male,Group C,High School,Free,Not Completed,64,65,66
+Female,Group A,Some High School,Standard,Completed,79,81,80
+Male,Group B,Bachelor's Degree,Free,Not Completed,84,82,83
+Female,Group C,Some College,Standard,Completed,90,92,91
+Male,Group A,Associate's Degree,Free,Not Completed,62,64,63
+Female,Group B,Bachelor's Degree,Standard,Completed,89,88,90
+Male,Group C,Some High School,Free,Not Completed,54,56,57
+Female,Group A,Master's Degree,Standard,Not Completed,95,94,96
+Male,Group B,High School,Free,Completed,68,70,71
+Female,Group C,Some College,Standard,Not Completed,87,89,88
+Male,Group A,Bachelor's Degree,Free,Completed,86,84,85
+Female,Group B,Associate's Degree,Standard,Completed,91,90,92
+Male,Group C,Master's Degree,Free,Not Completed,93,91,94
+Female,Group A,High School,Standard,Not Completed,73,75,74
+Male,Group B,Some High School,Free,Completed,57,59,58
+Female,Group C,Bachelor's Degree,Standard,Not Completed,82,83,84
+Male,Group A,Some College,Free,Completed,80,82,81
+Female,Group B,Associate's Degree,Standard,Not Completed,74,76,75
+Male,Group C,Master's Degree,Free,Completed,96,98,97
+Female,Group A,Bachelor's Degree,Standard,Completed,88,87,89
+Male,Group B,Some College,Free,Not Completed,78,80,79
+Female,Group C,High School,Standard,Completed,69,71,72
+Male,Group A,Some High School,Free,Not Completed,56,58,57
